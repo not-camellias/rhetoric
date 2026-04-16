@@ -1,0 +1,62 @@
+body{
+            background-color: #070707;
+
+            /* margin-left: 20px;
+            margin-right: 200px; */
+        }
+
+        h1{
+            font-family: "Courier Prime", monospace;
+            font-weight: 400;
+            font-style: normal;
+
+            color: whitesmoke;
+            text-align: right;
+        }
+
+        h2{
+            font-family: "Courier Prime", monospace;
+            font-weight: 400;
+            font-style: normal;
+
+            color:whitesmoke;
+            text-align: right;
+
+        }
+
+        h3{
+            font-family: "Courier Prime", monospace;
+            font-weight: 400;
+            font-style: normal;
+
+            color:whitesmoke;
+            text-align: right;
+        }
+
+        a{
+           font-family: "Courier Prime", monospace;
+            font-weight: 400;
+            font-style: normal;
+
+            color:whitesmoke;
+            text-align: right;
+        }
+        
+
+        .essay{
+            font-family: "Courier Prime", monospace;
+            font-weight: 400;
+            font-style: normal;
+
+            color:whitesmoke;
+
+            margin-left: 20px;
+            margin-right: 350px;
+        }
+
+        .original{
+             color:whitesmoke;
+
+            margin-left: 20px;
+            margin-right: 350px;
+        }
