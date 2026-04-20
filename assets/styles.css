@@ -1,5 +1,5 @@
 body{
-            background-color: #070707;
+            background-color:#070707;
 
             /* margin-left: 20px;
             margin-right: 200px; */
@@ -60,3 +60,12 @@ body{
             margin-left: 20px;
             margin-right: 350px;
         }
+
+        .fade-word {
+  opacity: 0;
+  transition: opacity 1.2s ease-in-out;
+}
+
+.fade-word.visible {
+  opacity: 1;
+}
