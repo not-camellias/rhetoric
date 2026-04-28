@@ -39,8 +39,8 @@ const spans = essay.querySelectorAll(".fade-word");
 
 // independent fading loops
 spans.forEach(span => {
-  const startDelay = Math.random() * 2000;
-  const cycle = 1500 + Math.random() * 2000;
+  const startDelay = Math.random(1,500) * 2500;
+  const cycle = 1750 + Math.random(1,1000) * 1500;
 
   setTimeout(() => {
     setInterval(() => {
